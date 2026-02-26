@@ -14,7 +14,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 ### 앱 이름: 네모큐알
 
 ### 배포 링크
-[https://gemini.google.com/share/eae013034889]
+[ https://gemini.google.com/share/eae013034889 ]
 
 ### 이 앱을 만든 이유
 - 어떤 문제/불편함을 해결하려고 했나요?
@@ -40,7 +40,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 ### 앱 이름: 휴픽
 
 ### 배포 링크
-[https://gemini.google.com/share/cb9c53393065]
+[ https://gemini.google.com/share/cb9c53393065 ]
 
 ### 이 앱을 만든 이유
 - 어떤 문제/불편함을 해결하려고 했나요?
@@ -58,7 +58,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 ### 앱 이름: Java Stream Lab
 
 ### 배포 링크
-[https://gemini.google.com/share/a39e0b9dba21]
+[ https://gemini.google.com/share/a39e0b9dba21 ]
 
 ### 이 앱을 만든 이유
 - 어떤 문제/불편함을 해결하려고 했나요?
@@ -98,7 +98,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 - 본인 기준으로 가장 잘 만들어진 앱 1개를 골라주세요.
 - 아래 불릿 포인트는 예시입니다. 각 항목의 취지를 참고해 본인의 실제 경험을 중심으로 자유롭게 작성해 주세요.
 
-### 휴픽
+### [ 휴픽 ]
 
 ### 1. 초기 프롬프트
 
