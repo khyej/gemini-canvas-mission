@@ -77,7 +77,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 @bee9827 @yoonhojoon
 
 ### 배포 링크
-[ https://gemini.google.com/share/fca121ee62ac ]
+[ https://gemini.google.com/share/b515620a8862 ]
 
 ### 이 앱을 만든 이유
 - 어떤 문제/불편함을 해결하려고 했나요?
