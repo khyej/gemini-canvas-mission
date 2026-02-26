@@ -74,7 +74,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 ### 앱 이름: [ 3D 대환장 레이싱 ]
 
 ### 페어
-@bee9827 @yoonhojoon
+[@bee9827](https://github.com/bee9827) & [@yoonhojoon](https://github.com/yoonhojoon)
 
 ### 배포 링크
 [ https://gemini.google.com/share/b515620a8862 ]
